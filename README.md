@@ -1,7 +1,7 @@
 # Customer Shopping Behavior Analysis
 ## Dashboard Preview
 
-![Customer Shopping Behavior Dashboard](images/dashboard.png)
+![Customer Shopping Behavior Dashboard](dashboard.png)
 
 An end-to-end data analysis project exploring customer shopping behavior, purchasing patterns, product reviews, discounts, subscriptions, and revenue distribution using Python, PostgreSQL, and Power BI.
 
