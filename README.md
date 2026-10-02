@@ -175,10 +175,4 @@ Open `customer_behavior.pbix` in Power BI Desktop to explore the visualizations.
 * Data visualization and business intelligence
 * Translating business questions into analytical queries
 
-## Key Takeaway
 
-This project demonstrates a practical data analysis workflow, from raw customer data preparation to SQL-based investigation and Power BI visualization. It brings together programming, database querying, and business intelligence to explore purchasing behavior and customer trends.
-
----
-
-**Author:** Leandro Mendieta
